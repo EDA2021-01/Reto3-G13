@@ -37,7 +37,11 @@ operación solicitada
 def printMenu():
     print("Bienvenido")
     print("1- Cargar información en el catálogo")
-    print("2- ")
+    # print("2- Buscar reproducciones según característica y rango")
+    # print("3- Encontrar música para festejar")
+    # print("4- Encontrar música para estudiar")
+    # print("5- Buscar cantidad de canciones y artista por género musical")
+    # print("6- Buscar género más escuchado según rango horario")
 
 catalog = None
 
